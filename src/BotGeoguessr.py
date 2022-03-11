@@ -17,7 +17,7 @@ from selenium.webdriver.firefox.options import Log, Options
 ###################################################################################################
 
 # Super secret token to control my bot
-TOKEN = os.environ["GEOGUESSR_TOKEN"]
+TOKEN = "951656829212033054"
 
 # options for selenium
 options = Options()
