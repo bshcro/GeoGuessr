@@ -43,10 +43,10 @@ not_command_files = ["Command.py", "CommandReturn.py", "__init__.py"]
 login_page = "https://www.geoguessr.com/signin"
 
 # My mail
-mail = os.environ["MAIL"]
+mail = os.environ["bjeff4540@gmail.com"]
 
 # My password
-password = os.environ["PASSWD"]
+password = os.environ["Jean123"]
 
 # login method
 login_method = LoginMethod.CLASSIC
